@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraTag</string>
+    <string name="start_camera">Start Cam</string>
+    <string name="provide_permission">Please provide Camera permission</string>
+    <string name="save">Save</string>
+    <string name="list">List</string>
+</resources>
